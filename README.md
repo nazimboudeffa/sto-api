@@ -1,12 +1,12 @@
-sto
-====
+Star Trek Online API
+====================
 
 An API for getting information on Star Trek Online
 
 ## Installing
 Install via [npm](https://npmjs.com)
 
-    $ npm install sto
+    $ npm install sto-api
 
 ## Running
 To run the example:
