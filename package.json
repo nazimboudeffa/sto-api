@@ -1,0 +1,27 @@
+{
+  "name": "sto-api",
+  "version": "1.0.0",
+  "description": "Star Trek Online API",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albator2018/sto-api.git"
+  },
+  "author": "albator2018",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albator2018/sto-api/issues"
+  },
+  "homepage": "https://github.com/albator2018/sto-api#readme",
+  "keywords": [
+    "Star",
+    "Trek",
+    "Online"
+  ]
+}
