@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/albator2018/sto-api.git"
+    "url": "git+https://github.com/nazimboudeffa/sto-api.git"
   },
   "author": "albator2018",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/albator2018/sto-api/issues"
+    "url": "https://github.com/nazimboudeffa/sto-api/issues"
   },
-  "homepage": "https://github.com/albator2018/sto-api#readme",
+  "homepage": "https://github.com/nazimboudeffa/sto-api#readme",
   "keywords": [
     "Star",
     "Trek",
