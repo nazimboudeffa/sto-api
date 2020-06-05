@@ -6,7 +6,7 @@ An API for getting information on Star Trek Online
 ## Installing
 Install via [npm](https://npmjs.com)
 
-    $ npm install sto-api
+    $ npm install github:nazimboudeffa/sto-api
 
 ## Running
 To run the example:
